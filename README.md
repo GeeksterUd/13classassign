@@ -1,1 +1,2 @@
 # 13classassign
+i created three files in gtml i created a div in css i gave the styling and in js i get the element of div with use of getelement by id and then added a event listener mouseover which will call a function in which i stored the height and width using .dociment.clientheight and clientwidth and then i generate a random using math.random and multiply it with height and width and the position to the div 
