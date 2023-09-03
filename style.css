@@ -1,0 +1,14 @@
+body {
+    position: relative;
+} 
+#box{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    position: absolute;
+}
+p{
+    text-align: center;
+    margin-top: 40px;
+}
